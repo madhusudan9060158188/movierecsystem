@@ -1,7 +1,7 @@
 A simple and effective Content-Based Movie Recommender System built using Python, TF-IDF, and Cosine Similarity.
 This project uses the TMDB 10,000 Movies Dataset to recommend similar movies based on their overview/description.
 
-🚀 Features
+# Features
 
 Content-Based filtering
 
@@ -21,8 +21,8 @@ Install the dependencies:
 
 pip install pandas scikit-learn
 
-📂 Project Structure
-📁 Movie-Recommender-System
+ Project Structure
+Movie-Recommender-System
 │
 ├── movierecommendersystem.py     # Main code
 ├── TMDB 10000 Movies Dataset.csv # Dataset
